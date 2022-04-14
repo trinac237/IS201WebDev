@@ -1,0 +1,26 @@
+
+.header{
+    height: 100px;
+    background-color: rgb(228, 225, 225);
+    line-height: 100px;
+    color: aqua;
+    text-align: 25%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.footer{
+    height: 50px;
+    background-color: rgb(238, 238, 238);
+    color: black;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.common{
+    text-align: center;
+    margin: 100px;
+    color: rgb(91, 87, 87);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: rgb(180, 242, 242);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
